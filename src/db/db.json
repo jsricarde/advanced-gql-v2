@@ -8,8 +8,57 @@
       "avatar": "http",
       "createdAt": 1571213104370,
       "id": "Z2hlvDmLOSRZGebC_Z_aA"
+    },
+    {
+      "email": "master@code.com",
+      "password": "passowrd",
+      "role": "ADMIN",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1589734644175,
+      "id": "8O2WzNQSv2jPnMvLeVvqW"
+    },
+    {
+      "email": "master@codew.com",
+      "password": "passowrdw",
+      "role": "ADMIN",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1589734710848,
+      "id": "bxWYtLmEkrQwOqFTIGHW9"
+    },
+    {
+      "email": "master@codes.com",
+      "password": "passowrds",
+      "role": "ADMIN",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1589742897390,
+      "id": "5S7NxaeuiM3-an202nTuK"
+    },
+    {
+      "email": "master@codes1.com",
+      "password": "passowrds1",
+      "role": "MEMBER",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1589745848445,
+      "id": "CEaIdnGHPBiBEgX7vjq7U"
     }
   ],
-  "posts": [],
+  "posts": [
+    {
+      "message": "Holi",
+      "author": "5S7NxaeuiM3-an202nTuK",
+      "createdAt": 1589751881403,
+      "id": "bv5upI59y9ZAqlWx4rgjK"
+    },
+    {
+      "message": "Holi",
+      "author": "5S7NxaeuiM3-an202nTuK",
+      "createdAt": 1589751983064,
+      "id": "6R-ZNKi-cG_mLsd5pEai7"
+    }
+  ],
   "settings": []
 }
